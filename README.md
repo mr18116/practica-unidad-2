@@ -2,11 +2,11 @@
 <p align="center">Pruebas aplicadas de los metodos de área y perímetro de la clase Circulo (Modelo y Controlador) usando PHPUnit en el framework Laravel</p>
     <h3>Integrantes</h3>
     <ul>
-        <li>Acuña Valdivieso, Daniel Enrique - AV18036<li>
-        <li>Galicia Cáceres, Fernando Amilcar - GC18076<li>
-        <li>Martínez Ruíz, Noé Francisco - MR18116<li>
-        <li>Portillo Merlos, Melvin Ernesto - PM18008<li>
-        <li>Zarco Alvarenga, Harold José - ZA18009<li>
+        <li>Acuña Valdivieso, Daniel Enrique - AV18036</li>
+        <li>Galicia Cáceres, Fernando Amilcar - GC18076</li>
+        <li>Martínez Ruíz, Noé Francisco - MR18116</li>
+        <li>Portillo Merlos, Melvin Ernesto - PM18008</li>
+        <li>Zarco Alvarenga, Harold José - ZA18009</li>
     </ul>
        
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
