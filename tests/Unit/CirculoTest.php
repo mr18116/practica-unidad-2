@@ -17,6 +17,7 @@ class CirculoTest extends TestCase
         $circulo = new Circulo();
         $area = $circulo->area();
         $areaEsperada = 50.265482457437;
+        echo "\nArea = " . $area;
         $this->assertEquals($area, $areaEsperada);
     }
 
@@ -25,6 +26,7 @@ class CirculoTest extends TestCase
         $circulo = new Circulo();
         $perimetro = $circulo->perimetro();
         $perimetroEsperado = 25.132741228718;
+        echo "\nPerimetro = " . $perimetro;
         $this->assertEquals($perimetro, $perimetroEsperado);
     }
 }
